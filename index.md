@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Namaste Traders 🙏🙏🙏
 
-You can use the [editor on GitHub](https://github.com/NepseTradingPro/NepseTradingPro.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hope you are haivng a good time. Well we created NepseTradingPro to be something out of the box with Technical Analysis and some MEME to create some laughs aswell. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Want to be a part of our team
+ 
+Then Please do join the following 
 
-# Header 1
-## Header 2
-### Header 3
+Viber Channel Link : https://invite.viber.com/?g2=AQArtTIOO4RT6E3ASzOU8rABrCw1xmBowLQSGuxSWoEL5We8Ki1orDVQPrfwxoUq
 
-- Bulleted
-- List
+Facebook Group Link : https://facebook.com/groups/nepsetradingpro
 
-1. Numbered
-2. List
+Facebook Page Link : https://www.facebook.com/NepseTradingPro
 
-**Bold** and _Italic_ and `Code` text
+### &#64; 2021 Nepse Trading Pro 
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NepseTradingPro/NepseTradingPro.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
