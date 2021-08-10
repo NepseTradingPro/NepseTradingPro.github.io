@@ -10,11 +10,11 @@ Hope you are haivng a good time. Well we created NepseTradingPro to be something
  
 Then Please do join the following 
 
-Viber Channel Link : [https://invite.viber.com/?g2=AQArtTIOO4RT6E3ASzOU8rABrCw1xmBowLQSGuxSWoEL5We8Ki1orDVQPrfwxoUq] (https://invite.viber.com/?g2=AQArtTIOO4RT6E3ASzOU8rABrCw1xmBowLQSGuxSWoEL5We8Ki1orDVQPrfwxoUq)
+Viber Channel Link : [https://invite.viber.com/?g2=AQArtTIOO4RT6E3ASzOU8rABrCw1xmBowLQSGuxSWoEL5We8Ki1orDVQPrfwxoUq](https://invite.viber.com/?g2=AQArtTIOO4RT6E3ASzOU8rABrCw1xmBowLQSGuxSWoEL5We8Ki1orDVQPrfwxoUq
 
-Facebook Group Link : [https://facebook.com/groups/NepseTradingPro] (https://facebook.com/groups/NepseTradingPro) 
+Facebook Group Link : [https://facebook.com/groups/NepseTradingPro] (https://facebook.com/groups/NepseTradingPro)
 
-Facebook Page Link : [https://www.facebook.com/NepseTradingPro] (https://www.facebook.com/NepseTradingPro)
+Facebook Page Link : [https://www.facebook.com/NepseTradingPro](https://facebook.com/NepseTradingPro)
 
 ### &#64; 2021 Nepse Trading Pro 
 
